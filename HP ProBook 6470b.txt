@@ -1,0 +1,71 @@
+Microsoft Windows [Version 10.0.17763.678]
+(c) 2018 Microsoft Corporation. All rights reserved.
+
+C:\Users\HP>systeminfo
+
+Host Name:                 HP-PC
+OS Name:                   Microsoft Windows 10 Pro
+OS Version:                10.0.17763 N/A Build 17763
+OS Manufacturer:           Microsoft Corporation
+OS Configuration:          Standalone Workstation
+OS Build Type:             Multiprocessor Free
+Registered Owner:          HP
+Registered Organization:
+Product ID:                00330-80000-00000-AA861
+Original Install Date:     12/12/2018, 15:15:26
+System Boot Time:          15/08/2019, 14:59:59
+System Manufacturer:       Hewlett-Packard
+System Model:              HP ProBook 6470b
+System Type:               x64-based PC
+Processor(s):              1 Processor(s) Installed.
+                           [01]: Intel64 Family 6 Model 58 Stepping 9 GenuineIntel ~2500 Mhz
+BIOS Version:              Hewlett-Packard 68ICE Ver. F.32, 05/12/2012
+Windows Directory:         C:\WINDOWS
+System Directory:          C:\WINDOWS\system32
+Boot Device:               \Device\HarddiskVolume1
+System Locale:             en-gb;English (United Kingdom)
+Input Locale:              en-gb;English (United Kingdom)
+Time Zone:                 (UTC+00:00) Dublin, Edinburgh, Lisbon, London
+Total Physical Memory:     3,976 MB
+Available Physical Memory: 407 MB
+Virtual Memory: Max Size:  8,072 MB
+Virtual Memory: Available: 3,364 MB
+Virtual Memory: In Use:    4,708 MB
+Page File Location(s):     C:\pagefile.sys
+Domain:                    WORKGROUP
+Logon Server:              \\HP-PC
+Hotfix(s):                 13 Hotfix(s) Installed.
+                           [01]: KB4506998
+                           [02]: KB4465065
+                           [03]: KB4470502
+                           [04]: KB4470788
+                           [05]: KB4480056
+                           [06]: KB4487038
+                           [07]: KB4489907
+                           [08]: KB4493478
+                           [09]: KB4493510
+                           [10]: KB4503308
+                           [11]: KB4509095
+                           [12]: KB4512937
+                           [13]: KB4511553
+Network Card(s):           4 NIC(s) Installed.
+                           [01]: Intel(R) 82579V Gigabit Network Connection
+                                 Connection Name: Ethernet
+                                 Status:          Media disconnected
+                           [02]: Intel(R) Centrino(R) Advanced-N 6205 Driver
+                                 Connection Name: Wireless Network Connection
+                                 DHCP Enabled:    Yes
+                                 DHCP Server:     192.168.0.1
+                                 IP address(es)
+                                 [01]: 192.168.0.21
+                                 [02]: fe80::61f9:49a4:fc:f4f6
+                           [03]: Generic Mobile Broadband Adapter
+                                 Connection Name: Cellular
+                                 Status:          Media disconnected
+                           [04]: Bluetooth Device (Personal Area Network)
+                                 Connection Name: Bluetooth Network Connection
+                                 Status:          Media disconnected
+Hyper-V Requirements:      VM Monitor Mode Extensions: Yes
+                           Virtualization Enabled In Firmware: Yes
+                           Second Level Address Translation: Yes
+                           Data Execution Prevention Available: Yes
